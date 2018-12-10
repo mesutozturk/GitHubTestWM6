@@ -8,5 +8,6 @@ namespace GitHubTest
 {
     class Insan
     {
+        int deneme = int.MinValue;
     }
 }
