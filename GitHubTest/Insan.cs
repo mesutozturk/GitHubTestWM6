@@ -9,5 +9,7 @@ namespace GitHubTest
     class Insan
     {
         int deneme = int.MinValue;
+
+        public int Deneme { get; set; }
     }
 }
