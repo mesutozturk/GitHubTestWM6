@@ -20,6 +20,7 @@ namespace GitHubTest
         private void Form1_Load(object sender, EventArgs e)
         {
             int a = 5;
+            int b = 10;
         }
     }
 }
