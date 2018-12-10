@@ -21,6 +21,7 @@ namespace GitHubTest
         {
             int a = 5;
             int b = 20;
+            int b = 10;
         }
     }
 }
