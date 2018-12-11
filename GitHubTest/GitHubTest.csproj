@@ -63,6 +63,7 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
+    <Compile Include="furkk.cs" />
     <Compile Include="Insan.cs" />
     <Compile Include="Kisi.cs" />
     <Compile Include="kopek.cs" />
