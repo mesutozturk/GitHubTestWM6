@@ -2,5 +2,6 @@
 {
     class Kedi
     {
+        string isim = "Kedi";
     }
 }
