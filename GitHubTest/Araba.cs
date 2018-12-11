@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace GitHubTest
 {
-    class Insan
+    public class Araba
     {
-        int deneme = int.MinValue;
-
-        public int Deneme { get; set; }
+        private int hız = 220;
     }
 }
+

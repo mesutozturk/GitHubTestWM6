@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace GitHubTest
 {
-    class Insan
+    class İsmail
     {
-        int deneme = int.MinValue;
 
-        public int Deneme { get; set; }
+        public string asdas { get; set; }
+        public int Yas { get; set; }
     }
 }
