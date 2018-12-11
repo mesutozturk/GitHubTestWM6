@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace GitHubTest
 {
-    class Deneme
+    public class Araba
     {
-         int deneme = int.MaxValue;
+        private int hız = 220;
     }
 }
+
