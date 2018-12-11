@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace GitHubTest
 {
-    class Deneme
+    class Insan
     {
-         int deneme = int.MaxValue;
+        int deneme = int.MinValue;
+
+        public int Deneme { get; set; }
     }
 }
