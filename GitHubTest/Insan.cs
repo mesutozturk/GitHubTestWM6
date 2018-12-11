@@ -10,7 +10,7 @@ namespace GitHubTest
     {
         string ad = "gozde";
         int sayi = 5;
-        string ad = "aysenur";
+        string st = "aysenur";
         private int _ugurluSayisi;
 
         int deneme = int.MinValue;
