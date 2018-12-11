@@ -93,7 +93,7 @@
             this.textBox2.Size = new System.Drawing.Size(158, 22);
             this.textBox2.TabIndex = 5;
             this.textBox2.Text = "İsmini yaz, ENTER\'a tıkla";
-            this.textBox2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox2_KeyDown);
+            
             // 
             // Form1
             // 
