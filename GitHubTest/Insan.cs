@@ -9,6 +9,8 @@ namespace GitHubTest
     class Insan
     {
         int sayi = 5;
+        private int _ugurluSayisi;
+
         int deneme = int.MinValue;
 
         public int Deneme { get; set; }
