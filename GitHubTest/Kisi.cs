@@ -14,7 +14,7 @@ namespace GitHubTest
             {
                 NameValid(value, "Ad");
                 value = value.Trim();
-                this._ad = value.Substring(0, 1).ToUpper() + value.Substring(1).ToLower();
+                this._ad = value.Substring(0, 1).ToLower() + value.Substring(1).ToLower();
             }
         }
         public String Soyad
@@ -24,7 +24,7 @@ namespace GitHubTest
             {
                 NameValid(value, "Soyad");
                 value = value.Trim();
-                this._soyad = value.Substring(0, 1).ToUpper() + value.Substring(1).ToLower();
+                this._soyad = value.Substring(0, 1).ToLower() + value.Substring(1).ToLower();
             }
         }
         public String Telefon
