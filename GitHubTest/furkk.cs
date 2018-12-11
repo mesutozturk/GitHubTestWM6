@@ -8,5 +8,7 @@ namespace GitHubTest
 {
     class furkk
     {
+        int a = 5;
+        double b = 7;
     }
 }
