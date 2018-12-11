@@ -8,6 +8,7 @@ namespace GitHubTest
 {
     class Insan
     {
+        string ad = "gozde";
         int sayi = 5;
         private int _ugurluSayisi;
 
