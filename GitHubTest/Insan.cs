@@ -8,6 +8,7 @@ namespace GitHubTest
 {
     class Insan
     {
+        string ad = "aysenur";
         private int _ugurluSayisi;
 
         int deneme = int.MinValue;
