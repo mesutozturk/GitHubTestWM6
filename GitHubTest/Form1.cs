@@ -22,15 +22,5 @@ namespace GitHubTest
             int a = 5;
             int b = 20;
         }
-
-        private void textBox2_KeyDown(object sender, KeyEventArgs e)
-        {
-            if (e.KeyCode == Keys.Enter)
-            {
-                Alper alper = new Alper(textBox2.Text);
-                MessageBox.Show(alper.banaKendiniTanit(textBox2.Text));
-                
-            }
-        }
     }
 }
