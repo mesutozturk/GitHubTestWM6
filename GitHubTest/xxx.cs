@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitHubTest
 {
-    class furkk
+    class xxx
     {
-        int a = 5;
-        double b = 7;
     }
 }

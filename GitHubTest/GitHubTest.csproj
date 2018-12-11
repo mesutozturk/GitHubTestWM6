@@ -74,6 +74,7 @@
     <Compile Include="Samet.cs" />
     <Compile Include="Temp.cs" />
     <Compile Include="İsmail.cs" />
+    <Compile Include="xxx.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
